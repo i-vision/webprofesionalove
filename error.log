@@ -1,0 +1,76 @@
+[Thu Jan 19 15:37:35 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:37:36 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:37:41 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:37:42 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:38:02 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:38:02 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:39:52 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:39:53 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:39:56 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:39:57 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:40:49 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:40:49 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:40:51 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:40:52 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:43:46 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:43:47 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/www
+[Thu Jan 19 15:45:11 2012] [error] [client 127.0.0.1] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[Thu Jan 19 15:45:11 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:13:20 2012] [error] [client 127.0.0.1] PHP Question2Answer MySQL query error 1146: Table 'webprofesionalove_cz.qa_options' doesn't exist - Query: (SELECT 'options' AS selectkey, title, content FROM qa_options) UNION ALL (SELECT 'time', 'db_time', UNIX_TIMESTAMP(NOW()))
+[Thu Jan 19 16:13:21 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:13:47 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:16:53 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:17:04 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:17:41 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:18:00 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:18:10 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:18:16 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:18:52 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/qa-theme/Candy/page-background.png, referer: http://webprofesionalove.loc/index.php?qa=admin&qa_1=general
+[Thu Jan 19 16:18:54 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/qa-theme/Candy/page-background.png, referer: http://webprofesionalove.loc/?qa=url&qa_1=test&qa_2=%24%26-_%7E%23%25%5C%40%5E%2A%28%29%3D%21%28%29%5D%5B%60%27%3B%3A%7C%22.%7B%7D%2C%3C%3E%3F%23+%CF%80%C2%A7%C2%BD%D0%96%D7%A9&dummy=&param=%24%26-_%7E%23%25%5C%40%5E%2A%28%29%3D%21%28%29%5D%5B%60%27%3B%3A%7C%22.%7B%7D%2C%3C%3E%3F%23+%CF%80%C2%A7%C2%BD%D0%96%D7%A9
+[Thu Jan 19 16:18:55 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:18:56 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/qa-theme/Candy/page-background.png, referer: http://webprofesionalove.loc/index.php?qa=ask
+[Thu Jan 19 16:18:57 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:18:57 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:20:03 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/qa-theme/Candy/page-background.png, referer: http://webprofesionalove.loc/index.php?qa=admin&qa_1=posting
+[Thu Jan 19 16:20:03 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:20:28 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/qa-theme/Candy/page-background.png, referer: http://webprofesionalove.loc/index.php?qa=admin&qa_1=posting
+[Thu Jan 19 16:20:28 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:20:31 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/qa-theme/Candy/page-background.png, referer: http://webprofesionalove.loc/index.php?qa=ask
+[Thu Jan 19 16:20:31 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:28:17 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/qa-theme/Candy/page-background.png, referer: http://webprofesionalove.loc/index.php?qa=admin&qa_1=general
+[Thu Jan 19 16:28:19 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/qa-theme/Candy/page-background.png, referer: http://webprofesionalove.loc/?qa=url/test/%24%26-_%7E%23%25%5C%40%5E%2A%28%29%3D%21%28%29%5D%5B%60%27%3B%3A%7C%22.%7B%7D%2C%3C%3E%3F%23+%CF%80%C2%A7%C2%BD%D0%96%D7%A9&dummy=&param=%24%26-_%7E%23%25%5C%40%5E%2A%28%29%3D%21%28%29%5D%5B%60%27%3B%3A%7C%22.%7B%7D%2C%3C%3E%3F%23+%CF%80%C2%A7%C2%BD%D0%96%D7%A9
+[Thu Jan 19 16:28:19 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/qa-theme/Candy/page-background.png, referer: http://webprofesionalove.loc/index.php?qa=url&qa_1=test&qa_2=%24%26-_%7E%23%25%5C%40%5E%2A%28%29%3D%21%28%29%5D%5B%60%27%3B%3A%7C%22.%7B%7D%2C%3C%3E%3F%23+%CF%80%C2%A7%C2%BD%D0%96%D7%A9&dummy=&param=%24%26-_%7E%23%25%5C%40%5E%2A%28%29%3D%21%28%29%5D%5B%60%27%3B%3A%7C%22.%7B%7D%2C%3C%3E%3F%23+%CF%80%C2%A7%C2%BD%D0%96%D7%A9
+[Thu Jan 19 16:28:19 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:28:39 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:28:42 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:29:01 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:29:02 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:29:34 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/qa-theme/zumtheme/page-background.png, referer: http://webprofesionalove.loc/index.php?qa=admin&qa_1=general
+[Thu Jan 19 16:29:36 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/qa-theme/zumtheme/page-background.png, referer: http://webprofesionalove.loc/index.php?qa=url&qa_1=test&qa_2=%24%26-_%7E%23%25%5C%40%5E%2A%28%29%3D%21%28%29%5D%5B%60%27%3B%3A%7C%22.%7B%7D%2C%3C%3E%3F%23+%CF%80%C2%A7%C2%BD%D0%96%D7%A9&dummy=&param=%24%26-_%7E%23%25%5C%40%5E%2A%28%29%3D%21%28%29%5D%5B%60%27%3B%3A%7C%22.%7B%7D%2C%3C%3E%3F%23+%CF%80%C2%A7%C2%BD%D0%96%D7%A9
+[Thu Jan 19 16:29:37 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:29:43 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/qa-theme/zumtheme/page-background.png, referer: http://webprofesionalove.loc/index.php?qa=ask
+[Thu Jan 19 16:29:44 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:30:00 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:31:15 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:31:24 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:31:35 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:32:13 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:32:43 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:37:48 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:38:00 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:38:08 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:40:28 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:40:38 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:40:59 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/admin, referer: http://webprofesionalove.loc/index.php?qa=admin&qa_1=general
+[Thu Jan 19 16:41:00 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:41:02 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/admin, referer: http://webprofesionalove.loc/index.php?qa=admin&qa_1=general
+[Thu Jan 19 16:41:03 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:41:05 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/admin, referer: http://webprofesionalove.loc/index.php?qa=admin&qa_1=general
+[Thu Jan 19 16:41:06 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:41:19 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:43:47 2012] [alert] [client 127.0.0.1] C:/Data/Programing/PHP/www/webprofesionalove_cz/website/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://webprofesionalove.loc/index.php?qa=admin&qa_1=general
+[Thu Jan 19 16:43:47 2012] [alert] [client 127.0.0.1] C:/Data/Programing/PHP/www/webprofesionalove_cz/website/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Jan 19 16:44:01 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:44:06 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/admin, referer: http://webprofesionalove.loc/index.php?qa=admin&qa_1=general
+[Thu Jan 19 16:44:07 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
+[Thu Jan 19 16:44:26 2012] [error] [client 127.0.0.1] File does not exist: C:/Data/Programing/PHP/www/webprofesionalove_cz/website/favicon.ico
