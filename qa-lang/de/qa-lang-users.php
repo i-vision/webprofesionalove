@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 	
 /*
 	Question2Answer 1.4 (c) 2011, Gideon Greenspan
@@ -27,18 +27,18 @@
 */
 
 	return array(
-		'about' => 'Beschreibung:',
+		'about' => 'Popis:',
 		'avatar_default' => 'Standard',
-		'avatar_gravatar' => 'Meinen ^1Gravatar^2 zeigen',
+		'avatar_gravatar' => 'Zobrazit můj Gravatar',
 		'avatar_label' => 'Avatar:',
-		'avatar_none' => 'Keinen',
-		'block_user_button' => 'Benutzer sperren',
-		'blocked_users' => 'Gesperrte Benutzer',
-		'change_password' => 'Passwort ändern',
-		'confirm_complete' => 'Danke - Deine Email-Adresse wurde bestätigt',
-		'confirm_emailed' => 'Wir haben dir einen Bestätigungs-Link geschickt. Bitte klicke den Link, um deine Email-Adresse zu bestätigen.',
-		'confirm_title' => 'Email-Adresse bestätigen',
-		'confirm_wrong_log_in' => 'Code nicht korrekt - bitte ^1logge dich ein^2 um einen neuen Link zu bekommen',
+		'avatar_none' => 'Žádný',
+		'block_user_button' => 'Blokovat uživatele',
+		'blocked_users' => 'Blokovaní uživatelé',
+		'change_password' => 'Změna hesla',
+		'confirm_complete' => 'Děkujeme - Váš e-mail byl úspěsně potvrzen',
+		'confirm_emailed' => 'Na Vaši e-mailovou adresu byl zaslán potvrzující e-mail, zkontrolujte prosím svuj mailbox',
+		'confirm_title' => 'Emailová adresa potvrzena',
+		'confirm_wrong_log_in' => 'Zadaný kód není správný, klikněte prosím pro nový',
 		'confirm_wrong_resend' => 'Code nicht korrekt - klicke um einen neuen Link zu bekommen',
 		'edit_level_button' => 'Benutzer-Level bearbeiten',
 		'edit_user_button' => 'Diesen Benutzer bearbeiten',
